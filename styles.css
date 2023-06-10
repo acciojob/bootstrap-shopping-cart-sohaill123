@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
-.heading h1{
+.mb-0{
 	color: #3b99e0;
+	align-item:center;
 }
 
 .heading p{
